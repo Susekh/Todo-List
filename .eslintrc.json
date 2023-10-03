@@ -8,6 +8,8 @@
     "parserOptions": {
         "ecmaVersion": "latest"
     },
+    "ignorePatterns": ["main.js"],
     "rules": {
+        "linebreak-style": 0
     }
 }
